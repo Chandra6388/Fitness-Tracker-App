@@ -7,7 +7,7 @@ The frontend was built using React.js with React Hooks to interact with the REST
 Tech used :- CSS, JavaScript, React.js, Node.js,Express.js, and Mongodb.
 
 # Technology used
-react js,
+React js,
 HTML,
 Bootstrap,
 CSS, 
